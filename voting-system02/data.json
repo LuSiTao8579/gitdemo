@@ -1,0 +1,57 @@
+{
+  "polls": {
+    "00941c38ffb1d78b": {
+      "id": "00941c38ffb1d78b",
+      "title": "最佳编程语言？",
+      "description": "",
+      "options": [
+        {
+          "id": "3b117e4ad3410392",
+          "text": "Go"
+        },
+        {
+          "id": "576b53150f8028af",
+          "text": "Python"
+        },
+        {
+          "id": "307dfed767a486a1",
+          "text": "JS"
+        }
+      ],
+      "created_at": "2025-07-06T21:48:46.5647114+08:00",
+      "end_at": "2025-12-31T00:00:00Z",
+      "votes": {}
+    },
+    "b0bf0d09fbae8476": {
+      "id": "b0bf0d09fbae8476",
+      "title": "最佳编程语言？",
+      "description": "",
+      "options": [
+        {
+          "id": "138123d034f4d940",
+          "text": "Go"
+        },
+        {
+          "id": "9a3b22e124518b9f",
+          "text": "Python"
+        },
+        {
+          "id": "edd20405748d6f06",
+          "text": "JS"
+        }
+      ],
+      "created_at": "2025-07-06T21:56:36.1687545+08:00",
+      "end_at": "2025-12-31T00:00:00Z",
+      "votes": {
+        "user123": 0
+      }
+    }
+  },
+  "users": {
+    "admin": {
+      "id": "b2bf98a4a5568ed2",
+      "username": "admin",
+      "password": "admin123"
+    }
+  }
+}
